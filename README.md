@@ -17,8 +17,7 @@
 ## Overview
 This is a simple web application built with **Python** and **Flask** that uses a pretrained transformer model for AI-based emotion detection from text input.
 
-![App Screenshot](./path-to-screenshot.png)  
-*Replace this with an actual image or animated GIF demonstrating the application.*
+<img width="1919" height="952" alt="image" src="https://github.com/user-attachments/assets/c4bd3865-9d4a-4203-9e00-2d02b7194ca4" />
 
 ---
 
